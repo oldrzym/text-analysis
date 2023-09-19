@@ -28,6 +28,8 @@ python -m spacy download en_core_web_sm
 ```bash
 python improving_text.py
 ```
+### **Note:**
+In first run script will download required models, it may take some time. Through next runs models will be loaded from cache.
 
 ### **Design Justifications:**
 
