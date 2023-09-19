@@ -26,7 +26,7 @@ python -m spacy download en_core_web_sm
 4. Run the script:
 
 ```bash
-python text_analysis.py
+python improving_text.py
 ```
 
 ### **Design Justifications:**
