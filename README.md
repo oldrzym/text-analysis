@@ -1,5 +1,4 @@
 # text-analysis
-Certainly! Here's an example of a `README.md` file in English:
 
 ---
 
@@ -38,4 +37,3 @@ python text_analysis.py
 
 ---
 
-You can copy the text and save it in a `README.md` file in the root directory of your project.
